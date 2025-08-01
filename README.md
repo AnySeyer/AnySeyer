@@ -1,8 +1,11 @@
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/59575502/127335491-fdba1874-e943-4d3c-ab8c-678ffe22f8b8.png" alt="header" />
-</p>
 
-###
+<div align="center">
+  
+[this is for the picture]: #	
+<div id="header">
+<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+
 
 <div align="center">
   <a href="https://www.linkedin.com/in/anayely-reyes-565b73327?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app/in/TU_LINKEDIN/" target="_blank">
@@ -30,12 +33,33 @@
 <p align="left">I'm from México<br><br>- 🔭 I'm a student<br>- 📚 I'm currently learning Python<br>- ⚡In my free time, I like to read</p>
 
 ###
+## My Skills Include
+
+<h4> Languages </h4>
+<span> 
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
+</span>
+<h4> Databases </h4>
+<span>
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+</span>
+<h4> IDE </h4>
+<span>
+<img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white">
+<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+
+</span>
+
+
 
 
 <!--
 <h3 align="left">🛠 Language and tools</h3>
 
-###
+
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="go logo"  />
@@ -57,7 +81,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
 </div>
 
-###
 
 <h3 align="left">🔥   My Stats :</h3>
 
